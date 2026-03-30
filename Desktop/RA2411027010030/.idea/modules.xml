@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/AnalyticsDashboard/AnalyticsDashboard.iml" filepath="$PROJECT_DIR$/WEEK1AND2/AnalyticsDashboard/AnalyticsDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/AutocompleteSystem/AutocompleteSystem.iml" filepath="$PROJECT_DIR$/WEEK1AND2/AutocompleteSystem/AutocompleteSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookMyStayApp/BookMyStayApp.iml" filepath="$PROJECT_DIR$/BookMyStayApp/BookMyStayApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/DNSCache/DNSCache.iml" filepath="$PROJECT_DIR$/WEEK1AND2/DNSCache/DNSCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/FlashSaleInventory/FlashSaleInventory.iml" filepath="$PROJECT_DIR$/WEEK1AND2/FlashSaleInventory/FlashSaleInventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/MultiLevelCache/MultiLevelCache.iml" filepath="$PROJECT_DIR$/WEEK1AND2/MultiLevelCache/MultiLevelCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/ParkingLotSystem/ParkingLotSystem.iml" filepath="$PROJECT_DIR$/WEEK1AND2/ParkingLotSystem/ParkingLotSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/PlagiarismDetector/PlagiarismDetector.iml" filepath="$PROJECT_DIR$/WEEK1AND2/PlagiarismDetector/PlagiarismDetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/RateLimiter/RateLimiter.iml" filepath="$PROJECT_DIR$/WEEK1AND2/RateLimiter/RateLimiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/SocialMediaUsername/SocialMediaUsername.iml" filepath="$PROJECT_DIR$/WEEK1AND2/SocialMediaUsername/SocialMediaUsername.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK1AND2/TransactionAnalyzer/TransactionAnalyzer.iml" filepath="$PROJECT_DIR$/WEEK1AND2/TransactionAnalyzer/TransactionAnalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEK3AND4/TransactionSorting/TransactionSorting.iml" filepath="$PROJECT_DIR$/WEEK3AND4/TransactionSorting/TransactionSorting.iml" />
+    </modules>
+  </component>
+</project>
